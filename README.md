@@ -43,17 +43,3 @@ REFERENCES:
 https://ois.ttu.ee/ois2/docs/HKRIT.111250/ITC8061-eng.pdf
 https://code.tutsplus.com/tutorials/introduction-to-network-programming-in-python--cms-30459
 https://github.com/baudm/ospf-sim - for routing process
-NETWORK PROTOCOL DESIGN
-COURSE LINK: https://courses.cs.ttu.ee/pages/ITC8060
-LECTURE 1
-LECTURE 2
-LECTURE 3
-ROUTING THEORY 2 - DIJKSTRA AND BGP
-
-Dijkstra’s algorithm:
-Finds the shortest path by broadcasting the request message to all its neighbor routers. It asks for the no. of hops to destination as well as the cost i.e., topology info is shared to all the routers.
-Cost – non – negative
-The shortest paths are chosen, to avoid loops.
-OSPF and IS-IS
-Traffic engineering is present in is-is not in OSPF. But the idea and principle used are the same with different syntax rules.
-ASN – unique no got from the registry.
